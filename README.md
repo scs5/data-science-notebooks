@@ -1,7 +1,16 @@
 # Data Science and Machine Learning Educational Jupyter Notebooks
 
 This repository contains a series of Jupyter notebooks that cover a wide range of topics in data science and machine learning.
-Based on: https://github.com/donnemartin/data-science-ipython-notebooks
+
+## Scikit-learn
+- [Linear regression](./scikit-learn/linear_regression.ipynb)
+- KNN
+- SVM
+- Random forest
+- Clustering
+- Dimensionality reduction
+- Gaussian mixture models
+- Validation and model selection
 
 ## PyTorch
 - PyTorch basics
@@ -17,16 +26,6 @@ Based on: https://github.com/donnemartin/data-science-ipython-notebooks
 - GAN
 - Graph NNs
 
-## Scikit-learn
-- KNN
-- Linear regression
-- SVM
-- Random forest
-- Clustering
-- Dimensionality reduction
-- Gaussian mixture models
-- Validation and model selection
-
 ## Scipy
 - Hypothesis testing
 - Bayesian parameter estimation
@@ -34,7 +33,7 @@ Based on: https://github.com/donnemartin/data-science-ipython-notebooks
 - Generalized linear model (GLM)
 - Nonparametric methods
 - Time series models
-- Causal inference (https://github.com/ronikobrosly/scipy_2023_causal_inference_tutorial)
+- Causal inference
 
 ## Data Analytics and Visualization
 - Data Visualization with Tableau

@@ -5,6 +5,7 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 ## Scikit-learn
 - [Linear regression](./scikit-learn/linear_regression.ipynb)
 - [Overfitting and Underfitting](./scikit-learn/properly_fitting.ipynb)
+- [Hyperparameter Tuning](./scikit-learn/hyperparameter_tuning.ipynb)
 - KNN
 - SVM
 - Random forest
@@ -42,7 +43,6 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 
 ## Evaluation and Optimization
 - Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC AUC, etc.)
-- Hyperparameter Tuning
 - Cross-Validation Techniques
 - Bias-Variance Tradeoff
 - Ensemble Methods (Voting, Bagging, Boosting)

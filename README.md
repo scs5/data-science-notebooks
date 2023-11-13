@@ -13,6 +13,7 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 - Dimensionality reduction
 - Gaussian mixture models
 - Validation and model selection
+- Dealing with NaNs
 
 ## PyTorch
 - PyTorch basics

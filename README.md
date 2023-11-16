@@ -3,10 +3,11 @@
 This repository contains a series of Jupyter notebooks that cover a wide range of topics in data science and machine learning.
 
 ## Scikit-learn
-- [Linear regression](./scikit-learn/linear_regression.ipynb)
+- [Linear Regression](./scikit-learn/linear_regression.ipynb)
 - [Overfitting and Underfitting](./scikit-learn/properly_fitting.ipynb)
 - [Hyperparameter Tuning](./scikit-learn/hyperparameter_tuning.ipynb)
-- KNN
+- [K-Nearest Neighbors](./scikit-learn/knn.ipynb)
+- [K-Means Clustering](./scikit-learn/k_means.ipynb)
 - SVM
 - Random forest
 - Clustering

@@ -4,8 +4,8 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 
 ## Models
 - [Linear Regression](./models/linear_regression.ipynb)
-- [K-Nearest Neighbors](./scikit-learn/knn.ipynb)
-- [K-Means Clustering](./scikit-learn/k_means.ipynb)
+- [K-Nearest Neighbors](./models/knn.ipynb)
+- [K-Means Clustering](./models/k_means.ipynb)
 - SVM
 - Random forest
 - Clustering

@@ -19,6 +19,7 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 - [Hyperparameter Tuning](./principles/hyperparameter_tuning.ipynb)
 - [Loss Curves](./principles/loss_curves.ipynb)
 - [Learning Curves](./principles/learning_curves.ipynb)
+- [Ensembling (Voting)](./principles/ensembling.ipynb)
 
 ## TODO
 - Recommender Systems

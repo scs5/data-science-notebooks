@@ -21,6 +21,7 @@ This repository contains a series of Jupyter notebooks that cover a wide range o
 - [Loss Curves](./principles/loss_curves.ipynb)
 - [Learning Curves](./principles/learning_curves.ipynb)
 - [Ensembling (Voting)](./principles/ensembling.ipynb)
+- [Bagging](./principles/bagging.ipynb)
 
 ## TODO
 - Recommender Systems

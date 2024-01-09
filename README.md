@@ -1,4 +1,5 @@
 # Learn Data Science
+<img src="./images/ds-notebooks-banner.webp" width="1250" />
 
 ## Overview
 This is a collection of Jupyter notebooks that cover a wide range of topics in data science and machine learning. Each notebook delves into the fundamentals of a topic, providing a blend of theory and practical demonstrations.
@@ -7,6 +8,7 @@ This is a collection of Jupyter notebooks that cover a wide range of topics in d
 
 ### Classical Models
 - [X] [Linear Regression](./models/linear_regression.ipynb)
+- [ ] Logistic Regression
 - [X] [K-Nearest Neighbors](./models/knn.ipynb)
 - [X] [K-Means Clustering](./models/k_means.ipynb)
 - [X] [Decision Trees](./models/decision_trees.ipynb)
@@ -21,6 +23,7 @@ This is a collection of Jupyter notebooks that cover a wide range of topics in d
 - [X] [Hyperparameter Tuning](./principles/hyperparameter_tuning.ipynb)
 - [X] [Loss Curves](./principles/loss_curves.ipynb)
 - [X] [Learning Curves](./principles/learning_curves.ipynb)
+- [ ] Gradient Descent
 - [X] [Ensembling (Voting)](./principles/ensembling.ipynb)
 - [X] [Bagging](./principles/bagging.ipynb)
 - [ ] Boosting

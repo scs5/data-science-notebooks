@@ -1,71 +1,80 @@
-# Data Science and Machine Learning Educational Jupyter Notebooks
+# Learn Data Science
 
-This repository contains a series of Jupyter notebooks that cover a wide range of topics in data science and machine learning.
+## Overview
+This is a collection of Jupyter notebooks that cover a wide range of topics in data science and machine learning. Each notebook delves into the fundamentals of a topic, providing a blend of theory and practical demonstrations.
 
-## Models
-- [Linear Regression](./models/linear_regression.ipynb)
-- [K-Nearest Neighbors](./models/knn.ipynb)
-- [K-Means Clustering](./models/k_means.ipynb)
-- [Decision Trees](./models/decision_trees.ipynb)
-- SVM
-- Random forest
-- Clustering
-- Dimensionality reduction
-- Gaussian mixture models
-- Validation and model selection
-- Dealing with NaNs
+## Topics
 
-## Machine Learning Principles
-- [Overfitting and Underfitting](./principles/properly_fitting.ipynb)
-- [Hyperparameter Tuning](./principles/hyperparameter_tuning.ipynb)
-- [Loss Curves](./principles/loss_curves.ipynb)
-- [Learning Curves](./principles/learning_curves.ipynb)
-- [Ensembling (Voting)](./principles/ensembling.ipynb)
-- [Bagging](./principles/bagging.ipynb)
+### Classical Models
+- [X] [Linear Regression](./models/linear_regression.ipynb)
+- [X] [K-Nearest Neighbors](./models/knn.ipynb)
+- [X] [K-Means Clustering](./models/k_means.ipynb)
+- [X] [Decision Trees](./models/decision_trees.ipynb)
+- [X] [SVM](./models/svm.ipynb)
+- [ ] Random Forest
+- [ ] XGBoost
+- [ ] PCA
+- [ ] Gaussian Mixture Models
 
-## TODO
-- Recommender Systems
-- Natural Language Processing (NLP):
-  - Text Preprocessing
-  - Named Entity Recognition (NER)
-  - Sentiment Analysis
-  - Text Classification
-  - Seq2Seq Models
-- Computer Vision:
-  - Object Detection
-  - Image Segmentation
-  - Image Recognition
-- Transfer Learning and Fine-Tuning
-- Federated Learning
-- Online Learning and Incremental Learning
-- Explainable AI and Model Interpretability (LIME, SHAP)
-- AutoML (Automated Machine Learning)
-- Anomaly Detection
-- Semi-Supervised Learning
-- Chatbots and Conversational AI
-- Collaborative Filtering Techniques
-- Matrix Factorization Methods
-- Factorization Machines
-- CNN
-- Multilayer perceptrons
-- RNN, LSTM
-- Reinforcement learning
-- Transformers
-- GAN
-- Graph NNs
-- CUDA Programming for GPU Acceleration
-- Cloud Platforms (AWS, Azure, GCP)
-- Docker and Containerization
-- Hypothesis testing
-- Bayesian parameter estimation
-- A/B testing
-- Generalized linear model (GLM)
-- Nonparametric methods
-- Time series models
-- Causal inference
-- Data Visualization with Tableau
-- Interactive Data Visualization (e.g., Plotly, D3.js)
-- Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC AUC, etc.)
-- Cross-Validation Techniques
-- Bias-Variance Tradeoff
-- Ensemble Methods (Voting, Bagging, Boosting, Blending)
+### Machine Learning Principles
+- [X] [Overfitting and Underfitting](./principles/properly_fitting.ipynb)
+- [X] [Hyperparameter Tuning](./principles/hyperparameter_tuning.ipynb)
+- [X] [Loss Curves](./principles/loss_curves.ipynb)
+- [X] [Learning Curves](./principles/learning_curves.ipynb)
+- [X] [Ensembling (Voting)](./principles/ensembling.ipynb)
+- [X] [Bagging](./principles/bagging.ipynb)
+- [ ] Boosting
+- [ ] Blending
+- [ ] Stacking
+- [ ] Dimensionality Reduction
+- [ ] Evaluation Metrics
+- [ ] Loss Functions
+- [ ] Bias-Variance Tradeoff
+
+### Neural Networks
+- [ ] Multi-Layer Perceptrons
+- [ ] CNN
+- [ ] RNN
+- [ ] LSTM
+- [ ] GAN
+- [ ] Graph NNs
+
+### Natural Language Processing
+- [ ] Text Preprocessing
+- [ ] Feature Engineering
+- [ ] Named Entity Recognition (NER)
+- [ ] Sentiment Analysis
+- [ ] Text Classification
+- [ ] Transformers
+- [ ] LLMs
+
+### Computer Vision
+- [ ] Image Classification
+- [ ] Object Detection
+- [ ] Image Segmentation
+
+### Statistics
+- [ ] Hypothesis testing
+- [ ] Bayesian parameter estimation
+- [ ] A/B testing
+- [ ] Generalized linear model (GLM)
+- [ ] Nonparametric methods
+- [ ] Time series models
+- [ ] Causal inference
+
+### Misc
+- [ ] Recommender Systems
+- [ ] Transfer Learning
+- [ ] Federated Learning
+- [ ] Online Learning
+- [ ] Explainable AI (e.g. LIME, SHAP)
+- [ ] AutoML
+- [ ] Anomaly Detection
+- [ ] Semi-Supervised Learning
+- [ ] Matrix Factorization Methods
+- [ ] Factorization Machines
+- [ ] Reinforcement Learning
+- [ ] CUDA Programming
+- [ ] Cloud Platforms (AWS, Azure, GCP)
+- [ ] Docker and Containerization
+- [ ] Interactive Data Visualization (e.g., Plotly, D3.js)
